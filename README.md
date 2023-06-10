@@ -596,7 +596,7 @@ Snapshot test runs slower. It should only be used to test Hooks that are error-p
 
 ## Contributing
 
-Welcome to join us to build a more powerful Markdown editor. Of course you can submit feature request to us. Please read[extensions](./docs/extensions.md) and [commit_convention](./docs/commit_convention.md) before you working on it.
+Welcome to join us to build a more powerful Markdown editor. Of course you can submit feature request to us. Please read [extensions](./docs/extensions.md) and [commit_convention](./docs/commit_convention.md) before you working on it.
 
 ## Stargazers over time
 
